@@ -10,3 +10,7 @@ edition = "2018"
 ofiles = "0.2.0"
 nix = "0.20.0"
 getopts = "*"
+
+[[bin]]
+name = "gram-demolition"
+path = "src/main.rs"
